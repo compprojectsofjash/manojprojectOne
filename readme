@@ -1,4 +1,14 @@
-steps - 
+
+identify a source for images and caption
+identify a source for quotes
+
+instruct to build an api that will expose the data over a json that will then be used by 
+the javascript program to populate the UI.
+
+
+
+
+completed steps - 
 -------
 
 create a folder
@@ -20,11 +30,6 @@ on hover over image show caption
 write a javascript program that reads the json and populates the placeholders.
 
 ------
-
-identify a source for images and caption
-identify a source for quotes
-
-instruct to build an api that will expose the data over a json that will then be used by the javascript program to populate the UI.
 
 -------
 pigeon
