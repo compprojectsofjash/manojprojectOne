@@ -1,0 +1,66 @@
+steps - 
+-------
+
+create a folder
+download 4 images
+copy 4 captions
+copy 4 quotes
+
+download 4 images
+copy 4 captions
+copy 4 quotes
+
+create a json with 2 objects in an array
+each object has imgurl, caption, quote
+
+create a ui with 4 image placeholders
+space for quote
+on hover over image show caption
+
+write a javascript program that reads the json and populates the placeholders.
+
+------
+
+identify a source for images and caption
+identify a source for quotes
+
+instruct to build an api that will expose the data over a json that will then be used by the javascript program to populate the UI.
+
+-------
+pigeon
+peacock
+duck
+hedgehog
+
+https://tinyurl.com/ybyyyvvf
+https://tinyurl.com/y9goehoj
+https://tinyurl.com/ydxn6m3o
+https://tinyurl.com/ychgzszm
+
+
+Don't cry because it's over, smile because it happened.
+Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.
+A room without books is like a body without a soul.
+You only live once, but if you do it right, once is enough.
+
+----
+profile pic
+lanterns
+fire!
+the fist
+
+https://tinyurl.com/ycqv5fnb
+https://tinyurl.com/y9fnkfjm
+https://tinyurl.com/yc4n9jz6
+https://tinyurl.com/ycw6xqmp
+
+But man is not made for defeat. A man can be destroyed but not defeated.
+When you reach the end of your rope, tie a knot in it and hang on. 
+You cannot shake hands with a clenched fist. 
+There is nothing permanent except change.
+
+----
+
+
+
+
